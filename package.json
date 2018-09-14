@@ -2,10 +2,11 @@
   "name": "aws-lambda-calculator-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://s3-us-west-1.amazonaws.com/awslambdacostcalc",
   "dependencies": {
-    "react": "^16.2.0",
-    "react-bootstrap": "^0.32.1",
-    "react-dom": "^16.2.0",
+    "react": "^16.5.1",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.5.1",
     "react-scripts": "1.1.1"
   },
   "scripts": {
